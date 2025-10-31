@@ -54,12 +54,16 @@ Mart was planning a significant business expansion but lacked a clear, data-driv
 
 **Data Pipeline Automation (N8N):**
       Set up automated workflows to collect and process data from various sources
+      
       Configured data validation and transformation steps
+      
       Automated data syncing between systems
 
 **Data Storage & Management (Supabase):**
       Structured database schema for optimal query performance
+      
       Implemented real-time data access and updates
+      
       Set up secure API endpoints for data retrieval
 
 **Data Analysis & KPI Calculation (Quadratic):**
@@ -67,12 +71,16 @@ Mart was planning a significant business expansion but lacked a clear, data-driv
 
 **Calculated key metrics:**
       On-Time Delivery (OT)%: [On-Time Deliveries] / [Total Deliveries]
+      
       In-Full Delivery (IF)%: [In-Full Deliveries] / [Total Deliveries]
+      
       On-Time In-Full (OTIF)%: [On-Time & In-Full Deliveries] / [Total Deliveries]
 
 **Reporting & Visualization (Excel):**
       Created dynamic dashboards with pivot tables and charts
+      
       Built interactive reports with slicers and filters
+      
       Developed automated reporting templates
 
 ---
@@ -80,9 +88,9 @@ Mart was planning a significant business expansion but lacked a clear, data-driv
 
 **Identification of Critical Weaknesses:** The analysis pinpointed 2-3 key customers where OTIF performance was critically low (<90%), which was previously masked by the overall company average
 
-**Process Inefficiencies: **Revealed specific distribution centers and product categories contributing most to delays and shortages
+**Process Inefficiencies:** Revealed specific distribution centers and product categories contributing most to delays and shortages
 
-**Quantified Risk: **Provided a clear benchmark showing that expanding with the current service levels would result in an estimated loss of 20% of the expansion investment due to penalties and lost sales
+**Quantified Risk:** Provided a clear benchmark showing that expanding with the current service levels would result in an estimated loss of 20% of the expansion investment due to penalties and lost sales
 
 ---
 <h2><a class="anchor" id="System Architecture"></a>System Architecture</h2>
@@ -102,23 +110,32 @@ Mart was planning a significant business expansion but lacked a clear, data-driv
 
 **Prerequisites:**
       Quadratic account and workspace
+      
       N8N instance (cloud or self-hosted)
+      
       Supabase project setup
+      
       Excel with data connections configured
 
 **Data Setup:**
       Configure N8N workflows to connect to your data sources
+      
       Set up Supabase tables with the required schema
+      
       Establish data connections between all components
 
 **System Initialization:**
       Run N8N workflows to populate Supabase with initial data
+      
       Connect Quadratic to Supabase via API
+      
       Refresh Excel data connections to pull analyzed data
 
 **Ongoing Operation:**
       N8N automates daily data syncs
+      
       Quadratic processes and analyzes updated data
+      
       Excel dashboards refresh automatically for daily reporting
 
 ---
