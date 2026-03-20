@@ -13,7 +13,7 @@ _A comprehensive analysis integrating sales transactions with supplier purchase 
 - <a href="#System Architecture">System Architecture</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-
+ 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 This project involved developing a comprehensive supply chain analytics system for AtliQ Mart, an FMCG manufacturer, using a modern no-code/low-code stack. The solution provided critical visibility into On-Time (OT), In-Full (IF), and On-Time In-Full (OTIF) delivery performance, enabling data-driven decisions that de-risked a major business expansion plan.
