@@ -21,10 +21,12 @@ Spearheading the development of a comprehensive supply chain analytics system fo
 ---
 <h2><a class="anchor" id="problem-statement"></a>Problem-Statement</h2>
 
-Mart was planning a significant business expansion but lacked a clear, data-driven understanding of its current delivery service levels to key customers. Without this insight, they risked expanding on a weak foundation, potentially leading to:
-1.Severe financial penalties from large retailers for failing to meet strict OTIF targets
-2.Loss of shelf space and damaged relationships with new and existing customers
-3.Inefficient allocation of expansion capital due to unresolved underlying process issues
+AtliQ Mart was on the cusp of a significant business expansion, yet faced a critical blind spot — the absence of a clear, data-driven understanding of its current delivery service levels to key customers. Without this foundational insight, the risk of expanding on an unstable operational foundation was alarmingly high, potentially unraveling years of brand-building efforts. Moving forward without addressing these gaps threatened to trigger a cascade of serious consequences, including:
+1. Severe financial penalties from large retailers for consistently failing to meet strict OTIF targets, directly eroding profit margins and straining key partnerships
+2. Loss of prime shelf space and irreparable damage to relationships with both new and existing customers, undermining long-term growth ambitions
+3. Inefficient allocation of expansion capital driven by unresolved underlying process inefficiencies, leading to poor ROI and missed market opportunities
+4. Erosion of brand credibility in a fiercely competitive FMCG landscape, where delivery reliability is a non-negotiable benchmark for retailer trust
+5. Missed strategic opportunities as leadership, lacking reliable performance data, would be forced to make high-stakes expansion decisions based on assumptions rather than evidence
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
